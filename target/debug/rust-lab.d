@@ -1,1 +1,1 @@
-C:\Users\Matin-Mania\Desktop\Files\coding\rust\rust-lab\target\debug\rust-lab.exe: C:\Users\Matin-Mania\Desktop\Files\coding\rust\rust-lab\src\main.rs
+/home/Skaimie/Desktop/Files/coding/rust/rust-lab/target/debug/rust-lab: /home/Skaimie/Desktop/Files/coding/rust/rust-lab/src/main.rs
